@@ -2,7 +2,7 @@
 
 Java·Spring 기반 기업용 플랫폼 API를 개발하고 운영해 왔습니다. 요구사항 분석부터 데이터 모델·비즈니스 로직 설계, 테스트와 운영 안정성 개선까지 담당합니다.
 
-[이력서 PDF](https://github.com/cyson21/portfolio-hub/releases/download/latest/resume.pdf) · [웹 포트폴리오](https://cyson21.github.io/) · [통합 포트폴리오 PDF](https://github.com/cyson21/portfolio-hub/releases/download/latest/portfolio-complete.pdf)
+[이력서 PDF](https://github.com/cyson21/portfolio-hub/releases/download/latest/resume.pdf) · [웹 포트폴리오](https://cyson21.github.io/) · [프로젝트 HTML](https://cyson21.github.io/projects/)
 
 ## 대표 프로젝트
 
