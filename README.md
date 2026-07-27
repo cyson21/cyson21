@@ -4,7 +4,7 @@ Java·Spring 기반 기업용 플랫폼 API를 개발하고 운영해 왔습니�
 
 분산 상태 변경, 동시 요청의 데이터 정합성, 접근 제어, 이벤트 전달과 재처리 문제를 구현과 테스트 근거로 설명합니다.
 
-[웹 포트폴리오](https://cyson21.github.io/) · [프로젝트 HTML](https://cyson21.github.io/projects/) · [이력서 PDF](https://github.com/cyson21/portfolio-hub/releases/download/latest/resume.pdf)
+[웹 포트폴리오](https://cyson21.github.io/) · [통합 포트폴리오 HTML](https://cyson21.github.io/portfolio/) · [프로젝트 HTML](https://cyson21.github.io/projects/) · [이력서 PDF](https://github.com/cyson21/portfolio-hub/releases/download/latest/resume.pdf)
 
 ## 대표 프로젝트
 
@@ -23,4 +23,4 @@ Java · Spring Boot · PostgreSQL · Kafka · Redis · RabbitMQ · Testcontainer
 
 Transactional Outbox · 멱등 처리 · 동시성 제어 · 장애 복구 · CDC · 데이터 계보
 
-[전체 프로젝트 HTML](https://cyson21.github.io/projects/) · [공개 자료 허브](https://github.com/cyson21/portfolio-hub)
+[통합 포트폴리오 HTML](https://cyson21.github.io/portfolio/) · [전체 프로젝트 HTML](https://cyson21.github.io/projects/) · [공개 자료 허브](https://github.com/cyson21/portfolio-hub)
