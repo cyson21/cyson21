@@ -15,7 +15,6 @@ Java·Spring 기반 기업용 플랫폼 API를 개발하고 운영해 왔습니�
 | [Enterprise Policy RAG](https://github.com/cyson21/enterprise-policy-rag) · [HTML](https://cyson21.github.io/projects/enterprise-policy-rag/) | 검색 전 권한 필터와 인용 범위 검사로 비인가 문서와 무근거 답변 차단 |
 | [AI Gateway](https://github.com/cyson21/ai-gateway) · [HTML](https://cyson21.github.io/projects/ai-gateway/) | 여러 애플리케이션의 인증·사용량·캐시·라우팅·장애 복구 정책을 공통 경계에 적용 |
 | [CDC Data Platform](https://github.com/cyson21/cdc-data-platform) · [HTML](https://cyson21.github.io/projects/cdc-data-platform/) | Debezium 변경 이벤트의 중복 적재를 막고 실패 뒤 원천 위치와 재처리 상태 추적 |
-| [Fashion Personalization Platform](https://github.com/cyson21/fashion-personalization-platform) · [HTML](https://cyson21.github.io/projects/fashion-personalization-platform/) | 행동 이벤트의 중복·재시도를 격리하고 상품 조건을 근거로 추천 순위 생성 |
 
 ## 기술 초점
 
