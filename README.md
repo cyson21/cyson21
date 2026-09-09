@@ -2,6 +2,8 @@
 
 Java·Spring 기반 기업용 플랫폼 API를 개발하고 운영해 왔습니다. 요구사항 분석부터 데이터 모델과 비즈니스 로직 설계, 테스트, 운영 안정성 개선까지 담당합니다.
 
+아래 대표 프로젝트와 기술 초점은 개인 프로젝트에서 설계·구현·검증한 범위이며, 실무 운영 경험과 구분합니다.
+
 분산 상태 변경, 동시 요청의 데이터 정합성, 접근 제어, 이벤트 전달과 재처리 문제를 구현과 테스트 근거로 설명합니다.
 
 [웹 포트폴리오](https://cyson21.github.io/) · [통합 포트폴리오 HTML](https://cyson21.github.io/portfolio/) · [프로젝트 HTML](https://cyson21.github.io/projects/) · [이력서 PDF](https://github.com/cyson21/portfolio-hub/releases/download/latest/resume.pdf)
