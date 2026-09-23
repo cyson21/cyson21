@@ -1,27 +1,21 @@
-# 손찬양 | Java/Spring Backend Engineer
+# 손찬양 | Java/Spring 백엔드 개발자
 
-Java·Spring 기반 기업용 플랫폼 API를 개발하고 운영해 왔습니다. 요구사항 분석부터 데이터 모델과 비즈니스 로직 설계, 테스트, 운영 안정성 개선까지 담당합니다.
+5년 차 백엔드 개발자입니다. 지금은 이엠캐스트에서 기업 고객용 플랫폼 API를 만들고 운영하고 있습니다.
 
-아래 대표 프로젝트와 기술 초점은 개인 프로젝트에서 설계·구현·검증한 범위이며, 실무 운영 경험과 구분합니다.
+운영하면서 가장 오래 붙잡고 있던 문제는 대부분 "데이터가 왜 이렇게 됐지?"였습니다. 동시에 들어온 요청, 중간에 실패한 처리, 두 번 도착한 이벤트 같은 것들이요. 그래서 개인 프로젝트도 그런 상황을 일부러 만들어 보고, 그때 데이터가 어떻게 남는지 테스트로 확인하는 쪽으로 진행했습니다.
 
-분산 상태 변경, 동시 요청의 데이터 정합성, 접근 제어, 이벤트 전달과 재처리 문제를 구현과 테스트 근거로 설명합니다.
+[포트폴리오](https://cyson21.github.io/) · [이력서 PDF](https://github.com/cyson21/portfolio-hub/releases/download/latest/resume.pdf)
 
-[웹 포트폴리오](https://cyson21.github.io/) · [통합 포트폴리오 HTML](https://cyson21.github.io/portfolio/) · [프로젝트 HTML](https://cyson21.github.io/projects/) · [이력서 PDF](https://github.com/cyson21/portfolio-hub/releases/download/latest/resume.pdf)
+## 개인 프로젝트
 
-## 대표 프로젝트
-
-| 프로젝트 | 다룬 문제와 구현 |
+| 프로젝트 | 내용 |
 |---|---|
-| [StockRush](https://github.com/cyson21/stockrush) · [HTML](https://cyson21.github.io/projects/stockrush/) | Saga와 Transactional Outbox로 주문·재고·결제의 부분 실패와 중복 처리를 제어 |
-| [Member Event Consistency](https://github.com/cyson21/member-event-consistency) · [HTML](https://cyson21.github.io/projects/member-event-consistency/) | PostgreSQL 제약·행 잠금과 선택형 Redis/RabbitMQ 방식으로 동시 요청의 업무 불변식 보호 |
-| [Enterprise Policy RAG](https://github.com/cyson21/enterprise-policy-rag) · [HTML](https://cyson21.github.io/projects/enterprise-policy-rag/) | 검색 전 권한 필터와 인용 범위 검사로 비인가 문서와 무근거 답변 차단 |
-| [AI Gateway](https://github.com/cyson21/ai-gateway) · [HTML](https://cyson21.github.io/projects/ai-gateway/) | 여러 애플리케이션의 인증·사용량·캐시·라우팅·장애 복구 정책을 공통 경계에 적용 |
-| [CDC Data Platform (프로토타입)](https://github.com/cyson21/cdc-data-platform) · [HTML](https://cyson21.github.io/projects/cdc-data-platform/) | 독립된 CDC 구성요소에서 중복 적재 방지와 실패 뒤 원천 위치·재처리 상태 추적을 검증 |
+| [StockRush](https://github.com/cyson21/stockrush) | 주문, 재고, 결제가 나뉜 쇼핑몰 백엔드. 결제가 실패하거나 Kafka가 멈춰도 주문이 어중간한 상태로 남지 않게 Saga와 Outbox로 처리 |
+| [Member Event Consistency](https://github.com/cyson21/member-event-consistency) | 쿠폰 수량, 포인트 잔액처럼 동시 요청에 약한 데이터를 PostgreSQL 잠금, Redis, RabbitMQ로 각각 막아 보고 비교 |
+| [Enterprise Policy RAG](https://github.com/cyson21/enterprise-policy-rag) | 사내 문서 검색 RAG. 볼 권한이 없는 문서는 검색 단계에서부터 빼고, 근거 문서 없이 답하지 않게 제한 |
+| [AI Gateway](https://github.com/cyson21/ai-gateway) | 여러 서비스가 LLM을 호출할 때 인증, 사용량 제한, 캐시, 장애 시 다른 모델로 넘기는 처리를 한곳에 모은 게이트웨이 |
+| [CDC Data Platform](https://github.com/cyson21/cdc-data-platform) | Debezium으로 받은 변경 이벤트를 중복 없이 쌓고, 실패하면 어디서부터 다시 돌릴지 추적하는 프로토타입 |
 
-## 기술 초점
+## 주로 쓰는 기술
 
-Java · Spring Boot · PostgreSQL · Kafka · Redis · RabbitMQ · Testcontainers
-
-Transactional Outbox · 멱등 처리 · 동시성 제어 · 장애 복구 · CDC · 데이터 계보
-
-[통합 포트폴리오 HTML](https://cyson21.github.io/portfolio/) · [전체 프로젝트 HTML](https://cyson21.github.io/projects/) · [공개 자료 허브](https://github.com/cyson21/portfolio-hub)
+Java, Spring Boot, JPA/QueryDSL, MySQL, PostgreSQL, Kafka, Redis, RabbitMQ, Docker, AWS, Testcontainers
