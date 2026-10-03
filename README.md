@@ -1,10 +1,10 @@
 # 손찬양 | Java/Spring 백엔드 개발자
 
-5년 차 백엔드 개발자입니다. 지금은 이엠캐스트에서 기업 고객용 플랫폼 API를 만들고 운영하고 있습니다.
+2021년부터 백엔드 개발·운영을 담당해 왔습니다. 이엠캐스트에서 B2B 교육 플랫폼 API 개발, 데이터 처리와 운영 개선을 담당하고 있습니다.
 
 운영하면서 가장 오래 붙잡고 있던 문제는 대부분 "데이터가 왜 이렇게 됐지?"였습니다. 동시에 들어온 요청, 중간에 실패한 처리, 두 번 도착한 이벤트 같은 것들이요. 그래서 개인 프로젝트도 그런 상황을 일부러 만들어 보고, 그때 데이터가 어떻게 남는지 테스트로 확인하는 쪽으로 진행했습니다.
 
-[포트폴리오](https://cyson21.github.io/) · [이력서 PDF](https://github.com/cyson21/portfolio-hub/releases/download/latest/resume.pdf)
+[실무 경력](https://cyson21.github.io/experience/) · [이력서 PDF · 핵심 기여 요약](https://cyson21.github.io/downloads/resume.pdf) · [경력기술서 PDF · 담당 범위와 주요 기여](https://cyson21.github.io/downloads/career-description.pdf) · [포트폴리오 HTML · 실무 사례와 개인 구현 상세](https://cyson21.github.io/portfolio/index.html)
 
 ## 개인 프로젝트
 
