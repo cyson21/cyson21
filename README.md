@@ -19,3 +19,7 @@
 ## 주로 쓰는 기술
 
 Java, Spring Boot, JPA/QueryDSL, MySQL, PostgreSQL, Kafka, Redis, RabbitMQ, Docker, AWS, Testcontainers
+
+## 자료 안내 경로
+
+이 프로필은 [웹 포트폴리오](https://cyson21.github.io/)와 [공개 자료 안내](https://github.com/cyson21/portfolio-hub), 위 개인 프로젝트의 구현 저장소를 연결합니다. 최신 이력서·경력기술서는 웹사이트의 다운로드 경로를 사용합니다. 구현 설명이나 경력 문안이 바뀌면 웹사이트와 이 프로필의 요약·링크를 함께 확인합니다.
