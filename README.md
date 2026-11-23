@@ -4,7 +4,7 @@
 
 운영하면서 가장 오래 붙잡고 있던 문제는 대부분 "데이터가 왜 이렇게 됐지?"였습니다. 동시에 들어온 요청, 중간에 실패한 처리, 두 번 도착한 이벤트 같은 것들이요. 그래서 개인 프로젝트도 그런 상황을 일부러 만들어 보고, 그때 데이터가 어떻게 남는지 테스트로 확인하는 쪽으로 진행했습니다.
 
-[실무 경력](https://cyson21.github.io/experience/) · [이력서 PDF · 핵심 기여 요약](https://cyson21.github.io/downloads/resume.pdf) · [경력기술서 PDF · 담당 범위와 주요 기여](https://cyson21.github.io/downloads/career-description.pdf) · [포트폴리오 HTML · 실무 사례와 개인 구현 상세](https://cyson21.github.io/portfolio/index.html)
+[실무 경력](https://cyson21.github.io/experience/) · [이력서 PDF · 핵심 기여 요약](https://cyson21.github.io/downloads/resume.pdf) · [포트폴리오 HTML · 실무 사례와 개인 구현 상세](https://cyson21.github.io/portfolio/index.html)
 
 ## 개인 프로젝트
 
@@ -22,4 +22,4 @@ Java, Spring Boot, JPA/QueryDSL, MySQL, PostgreSQL, Kafka, Redis, RabbitMQ, Dock
 
 ## 자료 안내 경로
 
-이 프로필은 [웹 포트폴리오](https://cyson21.github.io/)와 위 개인 프로젝트의 구현 저장소를 연결합니다. 최신 이력서·경력기술서는 웹사이트의 다운로드 경로를 사용합니다. 구현 설명이나 경력 문안이 바뀌면 웹사이트와 이 프로필의 요약·링크를 함께 확인합니다.
+이 프로필은 [웹 포트폴리오](https://cyson21.github.io/)와 위 개인 프로젝트의 구현 저장소를 연결합니다. 최신 이력서는 웹사이트에서 내려받을 수 있습니다. 구현 설명이나 경력 문안이 바뀌면 웹사이트와 이 프로필의 요약·링크를 함께 확인합니다.
